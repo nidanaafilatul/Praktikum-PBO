@@ -1,0 +1,12 @@
+/**
+ * Nama : Nida' Naafilatul Haniifah
+ * Nim  : 24060121120039
+ */
+
+
+
+Apa yang terjadi ketika 'T' dan segala 'T' diganti dengan character lain seperti T1, T2, T1234?
+
+Tidak ada perubahan yang terjadi, T diatas merupakan simbol generic yang dapat disubstitusi dengan character apapun. simbol T menandakan bahwa tipe data dalam class tersebut bisa diganti ganti sesuai dengan tipe data yang dimasukkan nantinya ketika instansiasi.
+
+contohnya pada penerapan di BangunDatarGenericTest.java, kelas BangunDatarGeneric diinstansiasi dengan masukkan tipe Lingkaran, sehingga nantinya Object tersebut merupakan object dengan Class BangunDatarGeneric yang attribute nya memiliki tipe yaitu Lingkaran.
